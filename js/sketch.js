@@ -1,4 +1,4 @@
-function setup() {
+function startFullSketch() {
     canvas = createCanvas(400, 400);
     canvas.parent("container");
 }
